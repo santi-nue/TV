@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="123" tvg-name="Channel Name" tvg-logo="http://logo.url/logo.png" group-title="News",Channel Name
+http://stream.url/stream.m3u8
+#EXTINF:-1 tvg-id="456" tvg-name="Another Channel" tvg-logo="http://logo.url/logo2.png" group-title="Sports",Another Channel
+http://stream.url/stream2.m3u8
